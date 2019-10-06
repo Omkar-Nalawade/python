@@ -1,0 +1,56 @@
+Creating New Aircraft Object: 0
+initial X-coordinate : 0
+initial Y-coordinate : 0
+Creating New Aircraft Object: 1
+initial X-coordinate : 0
+initial Y-coordinate : 0
+Creating New Aircraft Object: 2
+initial X-coordinate : 0
+initial Y-coordinate : 0
+Creating New Aircraft Object: 3
+initial X-coordinate : 0
+initial Y-coordinate : 0
+Creating New Aircraft Object: 4
+initial X-coordinate : 0
+initial Y-coordinate : 0
+Aircraft Instance 0 has moved down
+Aircraft Instance 0 has moved left
+Aircraft Instance 0 has moved down
+Aircraft Instance 0 has moved left
+Aircraft Instance 1 has moved down
+Aircraft Instance 1 has moved left
+Aircraft Instance 1 has moved left
+Aircraft Instance 2 has moved down
+Aircraft Instance 2 has moved left
+Aircraft Instance 2 has moved down
+Aircraft Instance 2 has moved right
+Aircraft Instance 2 has moved right
+Aircraft Instance 3 has moved right
+Aircraft Instance 3 has moved right
+Aircraft Instance 3 has moved left
+Aircraft Instance 3 has moved up
+Aircraft Instance 4 has moved right
+Aircraft Instance 4 has moved right
+Aircraft Instance 4 has moved up
+Aircraft Instance 4 has moved left
+Aircraft Instance 4 has moved up
+
+Aircraft [ 0 ]
+final x-coordinate : -2
+final y-coordinate : -2
+
+Aircraft [ 1 ]
+final x-coordinate : -2
+final y-coordinate : -1
+
+Aircraft [ 2 ]
+final x-coordinate : 1
+final y-coordinate : -2
+
+Aircraft [ 3 ]
+final x-coordinate : 1
+final y-coordinate : 1
+
+Aircraft [ 4 ]
+final x-coordinate : 1
+final y-coordinate : 2

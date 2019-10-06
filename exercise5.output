@@ -1,0 +1,105 @@
+Making a new aircraft object: 0
+initial X-coordinate : 11
+initial Y-coordinate : 11
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord: 51
+Y-Coord: 58
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 1
+initial X-coordinate : 11
+initial Y-coordinate : 10
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord: 59
+Y-Coord: 51
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 2
+initial X-coordinate : 11
+initial Y-coordinate : 15
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord: 56
+Y-Coord: 56
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 3
+initial X-coordinate : 5
+initial Y-coordinate : 14
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord: 64
+Y-Coord: 50
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 4
+initial X-coordinate : 7
+initial Y-coordinate : 9
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord: 69
+Y-Coord: 59
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+
+Aircraft [ 0 ]
+final X-coordinate : 13
+final Y-coordinate : 14
+
+Aircraft [ 1 ]
+final X-coordinate : 13
+final Y-coordinate : 13
+
+Aircraft [ 2 ]
+final X-coordinate : 13
+final Y-coordinate : 18
+
+Aircraft [ 3 ]
+final X-coordinate : 7
+final Y-coordinate : 17
+
+Aircraft [ 4 ]
+final X-coordinate : 9
+final Y-coordinate : 12

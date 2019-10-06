@@ -1,0 +1,90 @@
+Making a new aircraft object: 0
+initial X-coordinate : 0
+initial Y-coordinate : 0
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 1
+initial X-coordinate : 4
+initial Y-coordinate : 8
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 2
+initial X-coordinate : 8
+initial Y-coordinate : 10
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 3
+initial X-coordinate : 12
+initial Y-coordinate : 14
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+Making a new aircraft object: 4
+initial X-coordinate : 18
+initial Y-coordinate : 24
+moved right
+moved right
+moved up
+moved right
+moved left
+moved up
+moved up
+moved down
+moved up
+moved down
+moved up
+
+Aircraft [ 0 ]
+final X-coordinate : 2
+final Y-coordinate: 3
+
+Aircraft [ 1 ]
+final X-coordinate : 6
+final Y-coordinate: 11
+
+Aircraft [ 2 ]
+final X-coordinate : 10
+final Y-coordinate: 13
+
+Aircraft [ 3 ]
+final X-coordinate : 14
+final Y-coordinate: 17
+
+Aircraft [ 4 ]
+final X-coordinate : 20
+final Y-coordinate: 27
